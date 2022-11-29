@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movflix-react-app/static/css/main.149f26c7.css",
+    "main.js": "/movflix-react-app/static/js/main.e1e97a65.js",
+    "static/media/movflix-logo.png": "/movflix-react-app/static/media/movflix-logo.17de0013506b53b59bfa.png",
+    "static/media/tmdb.jpg": "/movflix-react-app/static/media/tmdb.26f8b7a1d29a583b60d8.jpg",
+    "static/media/no-image-available.jpg": "/movflix-react-app/static/media/no-image-available.70529e38d588b3968873.jpg",
+    "static/media/no-image-available-small.jpg": "/movflix-react-app/static/media/no-image-available-small.667e817a733e48f98d4a.jpg",
+    "index.html": "/movflix-react-app/index.html",
+    "main.149f26c7.css.map": "/movflix-react-app/static/css/main.149f26c7.css.map",
+    "main.e1e97a65.js.map": "/movflix-react-app/static/js/main.e1e97a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.149f26c7.css",
+    "static/js/main.e1e97a65.js"
+  ]
+}
